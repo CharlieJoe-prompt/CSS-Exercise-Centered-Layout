@@ -1,0 +1,29 @@
+html {
+    background-color: aliceblue;
+
+}
+body{
+    margin: auto;
+    background-color: rgb(0, 0, 0);
+}
+.heading{
+    max-width: 700px;
+    margin: auto;
+    display: flex;
+    flex-direction: column ;
+    padding-left: 0px;
+    padding-right: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+.sections{
+    max-width: 700px;
+    margin: auto;
+    background-color: antiquewhite;
+    flex-direction: column ;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    margin-top: 0%;
+}
+
